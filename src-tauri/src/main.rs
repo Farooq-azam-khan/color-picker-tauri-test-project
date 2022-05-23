@@ -43,6 +43,6 @@ fn generate_gradient(r:u8, g:u8, b:u8) -> Vec<Vec<u8>> {
                 })
                 .collect::<Vec<_>>();
   // dbg!(colors); 
-  println!("Generated Gradients"); 
+  //println!("Generated Gradients"); 
   colors
 }
